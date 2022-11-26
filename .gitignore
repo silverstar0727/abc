@@ -29,6 +29,7 @@ labels
 yolo
 runs
 *.pt
+dataset
 
 storage.googleapis.com
 runs/*
