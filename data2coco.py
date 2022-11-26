@@ -4,7 +4,7 @@ import random
 import json
 from tqdm import tqdm
 
-root_dir = "/workspace/yolov7-finetune/ir"
+root_dir = "/workspace/yolov7-finetune/coco/test"
 image_dir = os.path.join(root_dir, "images")
 label_dir = os.path.join(root_dir, "labels")
 
