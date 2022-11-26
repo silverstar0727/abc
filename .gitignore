@@ -32,6 +32,7 @@ runs
 dataset
 therm
 ir
+*.zip
 
 storage.googleapis.com
 runs/*
