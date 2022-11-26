@@ -62,7 +62,7 @@ def make_yolo_format(image_info):
 
 
 if __name__ == "__main__":
-    annotations_path = "/workspace/yolov7-finetune/labels"
+    annotations_path = "/workspace/yolov7-finetune/ir/labels"
     yolo_annotations_path = "/workspace/yolov7-finetune/yolo/labels"
     names_to_idx_dict = {
         "사람": 0,

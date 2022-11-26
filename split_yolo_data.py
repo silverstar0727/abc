@@ -3,7 +3,7 @@ import shutil
 import random
 from tqdm import tqdm
 
-yolo_img_dir = "images"
+yolo_img_dir = "ir/images"
 yolo_label_dir = "yolo/labels"
 
 target_dataset_dir = "dataset"

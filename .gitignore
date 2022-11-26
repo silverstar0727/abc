@@ -30,6 +30,8 @@ yolo
 runs
 *.pt
 dataset
+therm
+ir
 
 storage.googleapis.com
 runs/*
